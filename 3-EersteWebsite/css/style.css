@@ -1,0 +1,21 @@
+body {
+  background:
+     url(website.jpeg)
+     top center / 200px 200px
+     no-repeat
+     fixed      
+     padding-box
+     content-box
+    rgb(92, 205, 243);
+}
+
+.container h2{
+    color: whitesmoke;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+
+
